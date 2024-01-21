@@ -4,7 +4,7 @@
     "website_url": "https://github.com/Envy-Modding/PrideFlags",
     "description": "Adds a bunch of little pride flags to the scrap pile",
     "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
+        "BepInEx-BepInExPack-5.4.2100",
         "Evaisa-LethalLib-0.13.2"
     ]
 }

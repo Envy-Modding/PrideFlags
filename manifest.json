@@ -1,6 +1,6 @@
 {
     "name": "PrideFlags",
-    "version_number": "0.0.3",
+    "version_number": "0.0.4",
     "website_url": "https://github.com/Envy-Modding/PrideFlags",
     "description": "Adds a bunch of little pride flags to the scrap pile",
     "dependencies": [

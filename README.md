@@ -1,3 +1,8 @@
+Version 0.0.4
+
+- Added config for editing individual spawn rates
+
+-------------------------------------------------------------------------------------------------------------
 Version 0.0.3:
 
 - Added Trans, NB, and Bi Party Poppers

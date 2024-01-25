@@ -1,3 +1,12 @@
+Version 0.0.6
+
+- Added Trans, Bi, and NB Pride Wall Flags
+
+- Fixed small issues with the config
+
+- Cleaned up code to be a little more readable
+
+-------------------------------------------------------------------------------------------------------------
 Version 0.0.5
 
 - Fixed small bugs with scanner

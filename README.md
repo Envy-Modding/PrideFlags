@@ -4,7 +4,7 @@
 ## Features
 - Rainbow, Trans, Bi, NB, and Pan Pride Flags found throughout each level!
 - Rainbow, Trans, Bi, and NB Party Poppers that explode with confetti found throughout each level!
-- A purchasable flag to place on the wall of your ship!
+- Rainbow, Trans, Bi, and NB Wall Flags to place in your ship!
 - A config to change the spawn rates of each scrap item
 
 ## To-Do
